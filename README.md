@@ -20,7 +20,6 @@
 - 🤖 Passionate about **event-driven architecture**, **distributed systems**, and **agentic AI**
 - 🎓 M.Tech in Computer Science, **IIT Guwahati**
 - 🏆 3× SPOT Award winner (2022, 2024, 2025) & Wall of Fame (2022) at Walmart
-- ⚡ Fun fact: cut MTTR from **2 hours to 10 minutes** with an autonomous on-call debugging platform
 
 ---
 

@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer • Distributed Systems • AI Agents</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Tier-0+microservices+at+scale;Designing+event-driven+architectures;Shipping+AI+agents+that+run+themselves;5%2B+years+%40+Walmart+%26+NetApp" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Tier-0+microservices+at+scale;Designing+event-driven+architectures;Shipping+AI+agents+that+automate+systems;5%2B+years+%40+Walmart+%26+NetApp" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -110,5 +110,3 @@ Walmart       │ SDE II             │ Jul 2021 – Jul 2023
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asutosh-padhi13&style=for-the-badge&color=2F81F7" alt="profile views" />
 </p>
-
-<p align="center"><i>⭐️ Building systems that don't need me to babysit them.</i></p>
